@@ -14,3 +14,4 @@ alias history="fc -il 1"
 
 # Prompt
 alias k="clear"
+alias rm="rm -i"
