@@ -1,5 +1,6 @@
 # Composer
 alias cdu="composer dump-autoload -o"
+alias phpcs="./vendor/bin/phpcs"
 
 # Vagrant
 alias vup="vagrant up"
