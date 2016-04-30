@@ -19,3 +19,6 @@ alias rm="rm -i"
 
 # Ansible
 alias ap="ansible-playbook"
+
+# Laravel
+alias pa="php artisan"
